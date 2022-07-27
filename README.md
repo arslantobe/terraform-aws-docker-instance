@@ -16,3 +16,4 @@ module "docker_instance" {
     source = "arslantobe/docker-instance/aws"
     key_name = "********"
 }
+```
